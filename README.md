@@ -1,7 +1,9 @@
 # Ribo-Seq Data Processing
-## Introduction 
+## Discalimer 
 
-[Describe here what this pipeline does]
+This pipleine has been forked from JackCurragh/riboseq_data_processing. 
+I do not claim any intellectual property over it (I actually thank him for the help though in developing this tool).
+
 
 ## Requirements 
 This pipeline can be run using each of the following container methods
